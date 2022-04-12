@@ -14,7 +14,7 @@ library(tidyverse)
 
 View(mpg)
 ?mpg #help(mpg)
-# displ: tamaño del motor del coche en litros
+# displ: tamaño **del motor del** coche en litros
 # hwy: número de millas recorridas en autopista por galón de combustible (3.785411784 litros)
 
 ggplot(data = mpg)
